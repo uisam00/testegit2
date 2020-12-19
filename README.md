@@ -26,3 +26,7 @@ Estudo de Git
         git pull -- baixa todas os arquivos modificados do repositório remoto para o repositório local
 
         git clone (endereco do repositório remoto) -- clona um repositório remoto
+        
+        git config --global user.name "Fulano de Tal"
+        
+        git config --global user.email fulanodetal@exemplo.br
